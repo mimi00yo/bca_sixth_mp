@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Sixth BCA</string>
+    <string name="txt_welcome">Welcome back</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="you_ve_been_missed">You\'ve been missed.</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="thikka_paryo_ajhai_birsidai_basa">Thikka paryo, ajhai birsidai basa</string>
+    <string name="password_birsyo">Password Birsyo?</string>
+    <string name="about_us">About Us</string>
+    <string name="about_you">About You</string>
+    <string name="file">File</string>
+    <string name="sigh_up_with_google">Sigh Up With Google</string>
+    <string name="sigh_up_with_facebook">Sigh Up With Facebook</string>
+    <string name="or">Or</string>
+    <string name="email_0">Email</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="log_in">Log in</string>
+    <string name="welcome_backk">Welcome Back 👋</string>
+    <string name="passwordd">Password</string>
+    <string name="login_with">-Login With</string>
+    <string name="Education">Context Menu 1</string>
+    <string name="Skills">Context Menu 2</string>
+    <string name="Experience">Context Menu 3</string>
+    <string name="education">Education</string>
+    <string name="skills">Skills</string>
+    <string name="experience">Experience</string>
+    <string name="address">Address</string>
+    <string name="show_context_menu">Show Context Menu</string>
+    <string name="show_popup_menu">Show Popup Menu</string>
+    <string name="popup_menu_1">popup_menu_1</string>
+    <string name="popup_menu_2">popup_menu_2</string>
+    <string name="popup_menu_3">popup_menu_3</string>
+    <string name="popup_menu_4">popup_menu_4</string>
+    <string name="show_dialog">Show Dialogue</string>
+    <string name="default_dialog">Default Dialog</string>
+    <string name="visit_nepal_2025_n_are_you_gonna_visit_this_year">VISIT NEPAL 2025\n Are you gonna visit this year?</string>
+    <string name="welcome_to_ghibli_world_n_howl_s_moving_castle">WELCOME TO GHIBLI WORLD\n howl\'s moving castle</string>
+    <string name="custom_dialog">Custom Dialog</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+<!--    String[] days = {"Sunday", "Monday"}  can be written this one too instead of below one;-->
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+
+</resources>

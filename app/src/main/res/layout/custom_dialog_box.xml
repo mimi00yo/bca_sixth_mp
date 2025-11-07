@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#034159"
+        android:layout_marginTop="55dp"
+        android:text="@string/welcome_to_ghibli_world_n_howl_s_moving_castle"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:src="@drawable/ghibli"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+
+        <Button
+            android:id="@+id/btnAgree"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginStart="50dp"
+            android:backgroundTint="#3AA8D9"
+            android:text="@string/yes"/>
+
+    <Button
+        android:id="@+id/btnDisagree"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:layout_marginLeft="50dp"
+        android:backgroundTint="#7DBFD9"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="50dp"
+        android:text="@string/no"/>
+    </RelativeLayout>
+
+
+</LinearLayout>

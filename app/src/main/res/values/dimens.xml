@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Add this line -->
+<dimen name="inner_padding">8dp</dimen>
+
+<!-- You might have other dimensions here -->
+</resources>

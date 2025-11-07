@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/menu_one"
+    android:title="@string/file"
+    app:showAsAction="always"
+    android:icon="@android:drawable/star_on"/>
+
+    <item
+        android:id="@+id/menu_two"
+        android:title="@string/about_us"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/star_off"/>
+
+    <item
+        android:id="@+id/menu_three"
+        android:title="@string/about_you"/>
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/cmenu_one"
+    android:title="@string/education"/>
+
+    <item
+        android:id="@+id/cmenu_two"
+        android:title="@string/skills"/>
+
+    <item
+        android:id="@+id/cmenu_three"
+        android:title="@string/experience"/>
+
+    <item
+        android:id="@+id/cmenu_four"
+        android:title="@string/address"/>
+
+</menu>
